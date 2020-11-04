@@ -1,0 +1,19 @@
+body {
+    color: red;
+}
+
+.a>a:link {
+    color: green;
+}
+
+.a>a:hover {
+    color: aqua;
+}
+
+.a>a:after {
+    color: blanchedalmond;
+}
+
+.a>a:visited {
+    color: hotpink;
+}
